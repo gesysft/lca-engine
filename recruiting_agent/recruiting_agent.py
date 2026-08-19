@@ -34,7 +34,7 @@ from deepagents import create_deep_agent
 from . import data_service
 from .data_service import RECRUITER_IDS
 
-MODEL_NAME = "gpt-4o-mini"
+MODEL_NAME = "qwen-plus"
 
 # ---------------------------------------------------------------------------
 # Job posting schema
